@@ -11,6 +11,7 @@
 	background-size: 100%;
 	margin: auto;
 	position: relative;
+	padding-top: 25px;
 }
 
 #hours, #minute, #second{
